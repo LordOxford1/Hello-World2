@@ -12,3 +12,19 @@ our "rovers" are tiny and are hurled rather than wheeled.  they are on a tether 
 
 (/centre?)                              The tail of two tethers 
 should be a seperate thought associated with the next small ship arrival
+
+thur 2111-019
+
+
+we expect to be able to obtain 100 litres in 100 hours.  Perhaps slower, perhaps quicker….
+
+Meanwhile with a tiny “drag line crane” we  gather dusty regolith nearby, ready to be heated – we expect a lot of aluminium oxide – but other materials may make suitable building amalgams 
+
+we radially print and brace an enclosure around our tiny lander …
+ perhaps as we dismantle and recycle it or dig in 
+Or select a small crater to store our ice and snow in until better tankage can be made
+
+a concentrating solar collector is verty easy to build and track,, and a steam turbine plant can provide the larger power supply needed to produce aluminium. In the moons vacuum pipes and other structures can be made of aluminium by plasma deposit … but some ceramics may be made too  
+it’s all made in “tiny town” at perhaps 1Kg per 24 hours. there are 28 days x 24hrs = 672 hours per lunar day.
+`t
+
