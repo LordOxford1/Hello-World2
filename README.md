@@ -9,3 +9,6 @@ we are on the ridgetop of Shackleton Crater and there may be several lesser crat
 our "rovers" are tiny and are hurled rather than wheeled.  they are on a tether which can propel them a considerable distance before being towec back, or catapulted again, a 500 metre distant throw on the moon is like a 100m throw on Earth.
 
 18:30  first save
+
+(/centre?)                              The tail of two tethers 
+should be a seperate thought associated with the next small ship arrival
