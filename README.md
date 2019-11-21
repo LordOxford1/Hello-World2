@@ -1,7 +1,9 @@
 # Hello-World2
 so  hello, hello.
 Ok pencil icon on RHS at top lets me come back and edit
-so now I should entor BransonSpace or keep up with BransonsPace..    it's 20-11-019 @18:05 and I've watched a CNN "special loop" of related Branson videos ... glad to see you have a more realistic stratolaunch -  actually. even more can be achieved with a few specialised jets.
+so now I should entor BransonSpace or keep up with BransonsPace..    it's 
+
+20-11-019 @18:05 and I've watched a CNN "special loop" of related Branson videos ... glad to see you have a more realistic stratolaunch -  actually. even more can be achieved with a few specialised jets.
 
 Shackleton Hotel (www.ShackletonHotel.com )needs an initial 50kg payload landed (on the moon) by a 50Kg ship with 150Kg of propellant used to achieve it.
 we land at a precise spot. then deploy our 50Kg cargo as movable heat shield, solar power and communications arrays.  the site is unique in ALWAYS being in sunlight, not just in summar, like the North pole of Earth, but all day, all the time, all seasons ... the sun takes 28 days to go around the horizon which is on the ecliptic  ... our selected site is only a little bit higher than the surrounding "horizon" - 
@@ -12,7 +14,7 @@ our "rovers" are tiny and are hurled rather than wheeled.  they are on a tether 
 
 (/centre?)                              The tail of two tethers 
 
-should be a seperate thought associated with the next small ship arrival
+should be "a seperate thought" associated with the next small ship arrival
 
 wed 2011-019
 
@@ -30,3 +32,9 @@ it’s all made in “tiny town” at perhaps 1Kg per 24 hours. there are 28 day
 `t
 thur 2111-019
 
+there are many SMALL "telechir robots" in our 50Kg cargo - we'd like to keep them under 5kg, but if they get to be 10Kg we only have 3 or 4. limiting how much Supercord we can carry. we want at least 1Km of 20Kg strength.
+
+our first explorer (above) is catapulted (on a tether) into crater where we hope to find water. its 3 inertial gyros and/or the spooling out tether drag get it to land right side up - after laying an anchor it may then be hauled back up to the lander - or take several further hops to lay a second anchor or discover some snow (or other interesting regolith to gather, before being hauled back in on a sledge.
+the "lander locals" to collect regolith do similar small local hops
+
+our other telechir rocbots  do setup and maintenance tasks on our first lander - the first shield, PV array and antennae ... the next thing to produce is a concentrating parabolic reflector array to heat gathered spoils (prepared) in a crucible
