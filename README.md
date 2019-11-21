@@ -38,3 +38,11 @@ our first explorer (above) is catapulted (on a tether) into crater where we hope
 the "lander locals" to collect regolith do similar small local hops
 
 our other telechir rocbots  do setup and maintenance tasks on our first lander - the first shield, PV array and antennae ... the next thing to produce is a concentrating parabolic reflector array to heat gathered spoils (prepared) in a crucible
+
+the load gathered by each of these "mini drag lines" is less than 1/2 to 1Kg per trip - but several work different fields.  note that we are talking in Kg MASS collected, not weight, which in lunar gravity "weight" is abouut 1/5 of that mass
+
+Experiments with gathered mass involve sorting dust from pebbles, weighing and then furnacing (and re-weighing to detect volatiles released) and sorting into piles to assess material type and usefulness.  Bauxite contains aluminium oxide - our main target from the local diggers. surface material is more likely to be hot and fine dust
+
+our long range explorer finds snow or ice, but may not be able to pick this deep frozen stuff. if it is able to it takes it to none solar illuminated area for transfer to a sealed container for melting or steaming seperation the excavation area will become a specialised extraction space
+
+
