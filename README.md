@@ -43,6 +43,8 @@ the load gathered by each of these "mini drag lines" is less than 1/2 to 1Kg per
 
 Experiments with gathered mass involve sorting dust from pebbles, weighing and then furnacing (and re-weighing to detect volatiles released) and sorting into piles to assess material type and usefulness.  Bauxite contains aluminium oxide - our main target from the local diggers. surface material is more likely to be hot and fine dust
 
-our long range explorer finds snow or ice, but may not be able to pick this deep frozen stuff. if it is able to it takes it to none solar illuminated area for transfer to a sealed container for melting or steaming seperation the excavation area will become a specialised extraction space
+our long range explorer finds snow or ice, but may not be able to pick up this deep frozen stuff. if it is able to, it takes it to none solar illuminated area for transfer to a sealed container for melting or steaming seperation 
+
+The excavation area will become a specialised extraction space - here the drag line moves both ways such that hot crucibles can be delivered to melt the ice for extraction, or cut it into sections by saws or hammers,,,
 
 
